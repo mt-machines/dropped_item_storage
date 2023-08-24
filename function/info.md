@@ -12,7 +12,7 @@
 
 1x Digiterms Keyboard (you may remove it after configuring the stored item)
 
-1x Vacuum Tube
+1x Vacuum Tube (May require maintenance with excessive item count)
 
 1x Adjustable Vacuum Tube (Range: 1)
 
